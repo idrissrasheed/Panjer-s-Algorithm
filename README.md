@@ -1,0 +1,1 @@
+# Panjer-s-Algorithm
